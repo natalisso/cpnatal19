@@ -1,0 +1,6 @@
+- name: First playbook
+  hosts: localhost
+  vars:
+  tasks:
+    - name: ping
+      ping:
