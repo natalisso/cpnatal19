@@ -16,8 +16,8 @@
 
 
 * **Primeiro playbook ansible**
-    * Construindo nosso primeiro playbook para pingar seu localhost. No repositório tem um exemplo chamado `ping.yml`.
-    Para executar rode o seguinte comando:
+    * Construindo nosso primeiro playbook para pingar seu localhost. No repositório tem um exemplo chamado `ping.yml`
+    na pasta playbook. Para executar rode o seguinte comando:
     
         `$ ansible-playbook ping.yml`
     
